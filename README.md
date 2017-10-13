@@ -1,4 +1,4 @@
-# Weekplanner reactql demo
+# Week Planner Reactql demo
 
 Project for create scheduler with custom events
 
